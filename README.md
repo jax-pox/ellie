@@ -1,8 +1,8 @@
 ## Eu sou a Ellie😞✊
 ## Sobre mim:
 
-- 🌱 Atualmente estou aprendendo C++.
-- ⚡ Curiosidade: C++ veio somente depois do C.
+- ☕ Atualmente estou aprendendo C++.
+- 💻 Curiosidade: C++ veio somente depois do C.
 
 ## <h2>Curso De Engenharia Da Computação💻</h2>
 <p></p>

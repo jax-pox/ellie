@@ -3,8 +3,8 @@
 ❀° ┄──────────────────────────────────────────────────────────────────╮
  
 
-⤜♡→ ☕ Atualmente estou aprendendo C++.
-⤜♡→ Curiosidade: C++ é a linguagem mais velha que PHP.
+#⤜♡→ ☕ Atualmente estou aprendendo C++.
+#⤜♡→ Curiosidade: C++ é a linguagem mais velha que PHP.
 
 ## <h2> estudante de programação, robotica e física </h2>
 <p></p>
